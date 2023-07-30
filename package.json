@@ -1,0 +1,23 @@
+{
+  "name": "reactportfolio",
+  "version": "1.0.0",
+  "description": "this is a portfolio using react ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToriKnix/Week20.git"
+  },
+  "keywords": [
+    "react",
+    "portfolio"
+  ],
+  "author": "Blaine Duran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToriKnix/Week20/issues"
+  },
+  "homepage": "https://github.com/ToriKnix/Week20#readme"
+}
