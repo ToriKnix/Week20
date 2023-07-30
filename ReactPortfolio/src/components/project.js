@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Project = ({ title }) => {
+const Project = ({ title, deployedLink, githubLink, image }) => {
   return (
     <div className="project">
       <img src={image} alt={title} />
