@@ -15,7 +15,7 @@ const Navigation = () => {
           className={activeSection === 'About Me' ? 'active' : ''}
           onClick={() => handleNavClick('About Me')}
         >
-          <Link to="/">About Me</Link>
+          <Link to="/aboutMe">About Me</Link>
         </li>
         <li
           className={activeSection === 'Portfolio' ? 'active' : ''}
