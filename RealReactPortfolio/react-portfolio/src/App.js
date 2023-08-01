@@ -1,12 +1,13 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Header from '../components/Header';
-import AboutMe from '../pages/aboutMe';
-import Portfolio from '../pages/portfolio';
-import Contact from '../pages/contact';
-import Resume from '../pages/resume';
-import Footer from '../components/Footer';
-import '../Styles/App';
+import Header from './components/header';
+import AboutMe from './components/aboutMe';
+import Portfolio from './components/portfolio';
+import Contact from './components/contact';
+import Resume from './resume';
+import Footer from './components/footer';
+import "./App.css";
+
 
 function App() {
   return (
