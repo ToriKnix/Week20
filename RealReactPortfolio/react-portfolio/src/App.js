@@ -6,8 +6,6 @@ import Portfolio from './components/portfolio';
 import Contact from './components/contact';
 import Resume from './resume';
 import Footer from './components/footer';
-import "./App.js";
-
 
 function App() {
   return (
@@ -29,3 +27,4 @@ function App() {
 }
 
 export default App;
+
